@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+
+# NOT FINISHED YET
+
+
 import socket
 import time
 import platform
